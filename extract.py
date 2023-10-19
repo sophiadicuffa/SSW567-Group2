@@ -2,16 +2,19 @@ import requests
 import json
 import csv
 
-url = "https://github.com/NAIST-SE/DevGPT/tree/main/snapshot_20230727"
-response = requests.get(url)
-data = response.json()
+def get_data(url: str):
+    response = requests.get(url)
+    data = response.json()
+    print(data) #just figured I'd leave the print for now
+    extracted_data = {}
+    for key in data:
+        extracted_data[key] = data[key]
 
-extracted_data = {}
-extracted_data["payload"] = data["payload"]
-extracted_data["title"] = data["title"]
+    with open('output.csv', 'w', newline='') as csvfile:
+        csv_writer = csv.writer(csvfile)
+        csv_writer.writerow(['data'])
+        for key in extracted_data:
+            csv_writer.writerow(extracted_data[key])
 
-with open('output.csv', 'w', newline='') as csvfile:
-    csv_writer = csv.writer(csvfile)
-    csv_writer.writerow(['data'])  # Add column headers
-    for key in extracted_data:
-        csv_writer.writerow(extracted_data[key])
+if __name__ == "__main__":
+    get_data("https://github.com/NAIST-SE/DevGPT/tree/main/snapshot_20230727")
