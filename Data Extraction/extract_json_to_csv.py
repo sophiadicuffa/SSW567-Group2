@@ -4,7 +4,7 @@ import csv
 import json
 import requests
 
-JSON_URL = "https://raw.githubusercontent.com/NAIST-SE/DevGPT/main/snapshot_20230810/20230810_124807_commit_sharings.json"
+JSON_URL = "https://raw.githubusercontent.com/NAIST-SE/DevGPT/main/snapshot_20230914/20230914_083202_commit_sharings.json"
 
 
 def extract_json_to_csv(data):
@@ -33,7 +33,7 @@ def extract_json_to_csv(data):
 
     # Change the first three numbers to your own .json folder numbers!!
 
-    with open("810_chatgpt_sharing_urls.csv", "w", newline="", encoding="utf-8") as csvfile:
+    with open("914_chatgpt_sharing_urls.csv", "w", newline="", encoding="utf-8") as csvfile:
         csv_writer = csv.writer(csvfile)
         csv_writer.writerow(["ID", "URL", "Number of Prompts", "Python?"])
         for idx, (url, prompts, has_python) in enumerate(zip(chatgpt_sharing_urls, number_of_prompts, has_python_code), start=1):
