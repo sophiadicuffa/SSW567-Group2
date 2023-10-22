@@ -1,5 +1,4 @@
 import csv
-import json
 
 file_names = ["727_chatgpt_sharing_urls.csv", 
               "803_chatgpt_sharing_urls.csv",
