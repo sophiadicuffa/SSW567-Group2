@@ -9,6 +9,7 @@ ids = []
 sourceTypes = []
 urls = []
 languages = []
+gptSharing = []
 
 print("Reading...")
 for row in csvreader:
@@ -17,16 +18,17 @@ for row in csvreader:
         sourceTypes.append(row[0])
         urls.append(row[1])
         languages.append(row[4])
+        gptSharing.append(row[5])
 
 with open("filtered_big_file.csv", "w", newline="", encoding="utf-8") as csvfile:
         csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(["ID", "Type", "URL", "RepoLanguage"])
+        csv_writer.writerow(["ID", "Type", "URL", "ChatGPTSharing" ,"RepoLanguage"])
         c_index = 0
         row_num = len(sourceTypes)
         print("Writing... (0 / ", row_num, ")")
-        for id, (source, url, language) in enumerate(zip(sourceTypes, urls, languages), start=1):
+        for id, (source, url, sharing, language) in enumerate(zip(sourceTypes, urls, gptSharing, languages), start=1):
             print("(", c_index, " / ", row_num, ")")
-            csv_writer.writerow([id, source, url, language])
+            csv_writer.writerow([id, source, url, sharing, language])
             c_index += 1
 
 print("Finished")
