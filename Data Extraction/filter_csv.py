@@ -24,11 +24,11 @@ for row in csvreader:
             num_prompts = int(prompts_data.split(",")[0].split(":")[1])
             number_of_prompts.append(num_prompts)
         else:
-            number_of_prompts.append(0)
+            number_of_prompts.append("ERR")
 
 with open("filtered_big_file.csv", "w", newline="", encoding="utf-8") as csvfile:
         csv_writer = csv.writer(csvfile)
-        csv_writer.writerow(["Type", "URL", "ChatGPTSharing" ,"RepoLanguage"])
+        csv_writer.writerow(["Type", "URL", "Prompts" ,"RepoLanguage"])
         c_index = 0
         row_num = len(sourceTypes)
         print("Writing... (0 / ", row_num, ")")

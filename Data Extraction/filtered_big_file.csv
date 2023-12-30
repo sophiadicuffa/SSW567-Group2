@@ -1,306 +1,306 @@
-Type,URL,Prompts,RepoLanguage,Scores,,,
-code file,https://github.com/leanprover-community/mathlib4/blob/226948a52f8e19ad95ff6025a96784d7e7ed6ed0/scripts/align-import.py,10,ASL,8.33,,,
-code file,https://github.com/codereport/LeetCode/blob/2a3d5ea3438d696690d9a30f1f3f81403128f983/0359_Problem_1.py,2,APL,0,,,*Excluded datapoints with no score
-code file,https://github.com/netket/netket/blob/d0dc9a39c86a4e115546a65054760a4b5de5e8a4/netket/operator/_local_operator/compile_helpers.py,6,Python,7.5,,,
-code file,https://github.com/baseplate-admin/CoreProject/blob/3ae71711cfe72edc0faecbf1f4ea9321544d26d0/backend/django_core/apps/api/views/anime/episode/__init__.py,2,CSS,0,,,
-code file,https://github.com/baseplate-admin/CoreProject/blob/3ae71711cfe72edc0faecbf1f4ea9321544d26d0/backend/django_core/apps/api/views/anime/episode/timestamp.py,2,CSS,0,,,
-code file,https://github.com/baseplate-admin/CoreProject/blob/3ae71711cfe72edc0faecbf1f4ea9321544d26d0/backend/django_core/apps/api/views/anime/episode/comment.py,2,CSS,0,,,
-code file,https://github.com/Pioreactor/pioreactor/blob/a5559ee2857a7b10c4643182ddd4e37033d5b49a/pioreactor/plugin_management/__init__.py,4,Python,0,,,
-code file,https://github.com/ElectricRCAircraftGuy/eRCaGuy_hello_world/blob/aa05660bc15ff68ae00ccd50381edcab81043ad3/python/time_convert_tai_to_unix_lib.py,3,Assembly,6.74,,,
-code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/radiant/data_view.py,1,CSS,0,,,
-code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,4,Python,1.84,,,
-code file,https://github.com/QCrypt/website-2023/blob/b0578134ef5c825cc72acd330b11d06574b770a9/static/python-scripts/poster_filter.py,2,HTML,3.5,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python,2.56,,,
-code file,https://github.com/jcarter62/sgmaui/blob/fa17cdb4db06d80d8064ed6a4be74aca49d80448/acctview/views.py,1,CSS,6.44,,,
-code file,https://github.com/brando90/ultimate-utils/blob/0cd886c738a5a2757e3da061ee793c0be2a20ede/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C,0,,,
-code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile,4.72,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python,5.8,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python,5.45,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile,8.25,,,
-code file,https://github.com/GoatWang/AFRICAN/blob/97c52b3496d563230064c49ea900c73a2c431023/Train/Model.py,0,Python,4.29,,,
-code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook,4.25,,,
-code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly,,,,
-code file,https://github.com/brando90/ultimate-utils/blob/0cd886c738a5a2757e3da061ee793c0be2a20ede/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C,,,,
-code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/shiny-app/app-radiant.py,2,CSS,0,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML,4.55,,,
-code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python,7.46,,,
-code file,https://github.com/richdrummer33/bg3-voiceover/blob/abbee702a8cabf7063b39631f43db23ce64454ef/workspace/ai_commentator.py,2,Python,0,,,
-code file,https://github.com/dtudk/pythonsupport-page/blob/7a2ba3cfd6769979a0054d0b2a223684bbae9d61/tools/scuffed-scraper/main.py,1,Batchfile,7.3,,,
-code file,https://github.com/Davi-S/Toolorant/blob/95d9570792d92e026935a855f548d2ab9fc57738/src/flask_application/forms.py,1,Batchfile,0,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,18,Makefile,6.59,,,
-code file,https://github.com/brando90/ultimate-utils/blob/0cd886c738a5a2757e3da061ee793c0be2a20ede/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C,0,,,
-code file,https://github.com/Lucky19112002/Shell-Share/blob/9fc4c3192d4cdb50f48d8d5d54a00dc8623d56ba/testing/dummy.py,8,Python,6.33,,,
-code file,https://github.com/jseguillon/kubechat-poc/blob/6a5d265e605ad091741058bdfbe3189d6c4d7a2c/commands/transform_commands.py,3,Python,2.36,,,
-code file,https://github.com/JasonGross/neural-net-coq-interp/blob/1a2594e863185f0a9cfefe3532bb5e3588a35c2f/training/Proving_How_A_Transformer_Takes_Max.py,0,Coq,2.71,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/b865a03ceecb2c4536b8f86643134afa0fa8f151/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook,4.31,,,
-code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML,0,,,
-code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/0cd886c738a5a2757e3da061ee793c0be2a20ede/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C,0,,,
-code file,https://github.com/trevbook/boggle-vision/blob/6c8b4ccf2145affef414a338a9cd9a86919dbabc/utils/misc.py,4,Jupyter Notebook,6.07,,,
-code file,https://github.com/naoTimesdev/showtimes/blob/79ed15aa647c6fb8ee9a1f694b54d90a5ed7dda0/migrations/20230130105150_init.py,0,CSS,7,,,
-code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/130f22bb9d61497437b586ca84d726704dea61ee/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook,4.76,,,
-code file,https://github.com/GoatWang/AFRICANPretrain/blob/f417d5c7fc8ee415be963c7fca0ac2a624cd7be9/Train/config.py,1,Python,0,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML,0,,,
-code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook,0,,,
-code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook,0,,,
-code file,https://github.com/ceumicrodata/bucketlist/blob/d6698c66b11fcc63fd34bde1ae14873f6c27437c/bucketlist/storage.py,11,Makefile,7.72,,,
-code file,https://github.com/leanprover-community/mathlib4/blob/69906dca77aa3070d1e23781fc67a0c535cd64e9/scripts/align-import.py,10,ASL,8.33,,,
-code file,https://github.com/Pioreactor/pioreactor/blob/b16c11ecd81b04cae473c8df2ad23b27b68113b1/pioreactor/plugin_management/__init__.py,4,Python,0,,,
-code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,0,CSS,3.79,,,
-code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/radiant/data_view.py,1,CSS,0,,,
-code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/shiny-app/app-radiant.py,2,CSS,0,,,
-code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,0,C,0,,,
-code file,https://github.com/hulefei/notebook/blob/d7e8bc8590ca9a7fc7f879b602d853f005694d61/app.py,1,Batchfile,2.83,,,
-code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python,1.84,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,1,C,2,,,
-code file,https://github.com/QCrypt/website-2023/blob/ccf1dd28ee40d9efa69948de14fe7e570ae225c7/static/python-scripts/poster_filter.py,2,HTML,3.5,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python,2.56,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C,0,,,
-code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile,4.72,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python,5.8,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile,8.25,,,
-code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook,4.25,,,
-code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly,,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python,5.45,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C,,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML,4.55,,,
-code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python,7.46,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile,6.59,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C,0,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/5c9258295e6c4bcad6db10c902bd205574112dc8/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook,0.33,,,
-code file,https://github.com/asia-pacific-energy-research-centre/transport_model_9th_edition/blob/4024b2cc7fdb903ca0fd764d7d4e0e30d3b7745f/workflow/plotting_functions/create_assumptions_dashboards.py,0,Python,0,,,
-code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C,0,,,
-code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/f80b4861ff3558f9ab7103de5cf6c58e7ba35d30/Train/config.py,1,Python,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/hf_uu/train/full_fine_tuning.py,4,C,0,,,
-code file,https://github.com/naoTimesdev/showtimes/blob/caccfc9f714b4872b471f83842fa46da56b55cae/migrations/20230130105150_init.py,0,CSS,7.01,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,1,C,2,,,
-code file,https://github.com/pranavgupta2603/seoAnalyzerGPT/blob/5f8687cf9aeab266919e026117df901686d7cd17/pagespeed.py,2,Python,3.04,,,
-code file,https://github.com/leanprover-community/mathlib4/blob/891adb329938ca3cd49a1d1208f691a98fb0896f/scripts/align-import.py,10,ASL,8.33,,,
-code file,https://github.com/netket/netket/blob/f4f2844739302fd7e044b722eae8a93d0bfc59ec/netket/operator/_local_operator/compile_helpers.py,6,Python,7.5,,,
-code file,https://github.com/Pioreactor/pioreactor/blob/b16c11ecd81b04cae473c8df2ad23b27b68113b1/pioreactor/plugin_management/__init__.py,4,Python,0,,,
-code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,0,CSS,3.79,,,
-code file,https://github.com/vnijs/pyrsm/blob/fa5272386d571914039548d7ed724b4d5237f04e/pyrsm/radiant/data_view.py,1,CSS,0,,,
-code file,https://github.com/vnijs/pyrsm/blob/fa5272386d571914039548d7ed724b4d5237f04e/pyrsm/shiny-app/app-radiant.py,2,CSS,0,,,
-code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,0,C,0,,,
-code file,https://github.com/hulefei/notebook/blob/25433535a308dae41e652742a9768dc32e984d9c/app.py,1,Batchfile,2.83,,,
-code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,5,Python,1.84,,,
-code file,https://github.com/QCrypt/website-2023/blob/b992f27ff73f4c2bbff57c39537bb4ca31a9d8d1/static/python-scripts/poster_filter.py,2,HTML,3.5,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python,2.56,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C,0,,,
-code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile,4.72,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python,5.8,,,
-code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly,,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile,8.25,,,
-code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook,4.25,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python,5.45,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C,,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML,4.55,,,
-code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python,7.46,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/64990102168a2c6105ebe53ca8996f7c99739a7c/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook,3.33,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,18,Makefile,6.59,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C,0,,,
-code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML,0,,,
-code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/61625dace4646a2ede8ea3ca9f44e30c4e96c1f7/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook,4.76,,,
-code file,https://github.com/trevbook/boggle-vision/blob/0049c63f0c7e4a760904e7a9665f4deb0d024e78/utils/misc.py,4,Jupyter Notebook,6.07,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML,0,,,
-code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook,0,,,
-code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/a4520ff57d45c2d5f311ebe16a21d5a395061f04/Train/config.py,1,Python,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/mains_hf/main_causal_lm.py,1,C,0,,,
-code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook,0,,,
-code file,https://github.com/wehnsdaefflae/PerpetualAgent/blob/2fe1d5dd2a549d4baf4dbbebd8b3c51820a30e8c/new_attempt/main.py,10,Python,,,,
-code file,https://github.com/andrew-healey/combinadics/blob/68f0663cb1575dad1cc4b394795d96bff0c82757/combinadics_fast.py,3,Python,2.76,,,
-code file,https://github.com/leanprover-community/mathlib4/blob/61fc05bca210b556703c897004b5a03fca41fb7b/scripts/align-import.py,10,ASL,8.33,,,
-code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,0,CSS,3.79,,,
-code file,https://github.com/vnijs/pyrsm/blob/f4bd7fd6c5dad75e33d8219567c5e26487ce6c71/pyrsm/radiant/data_view.py,1,CSS,0,,,
-code file,https://github.com/vnijs/pyrsm/blob/f4bd7fd6c5dad75e33d8219567c5e26487ce6c71/pyrsm/shiny-app/app-radiant.py,2,CSS,0,,,
-code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,0,C,0,,,
-code file,https://github.com/hulefei/notebook/blob/d7e8bc8590ca9a7fc7f879b602d853f005694d61/app.py,1,Batchfile,2.83,,,
-code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python,1.84,,,
-code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile,4.72,,,
-code file,https://github.com/QCrypt/website-2023/blob/2879fa260fc9e2f90d9709bae0491f46159a846b/static/python-scripts/poster_filter.py,2,HTML,3.5,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python,2.56,,,
-code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly,,,,
-code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/2ba492efdd15666cf8dbbb4709e158141506aa75/Train/config.py,1,Python,0,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python,5.8,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile,8.25,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML,4.55,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C,0,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python,5.45,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C,,,,
-code file,https://github.com/asia-pacific-energy-research-centre/transport_model_9th_edition/blob/8a8eed6289710125a2b40c6039579a655fdec37c/workflow/plotting_functions/create_assumptions_dashboards.py,10,Python,0,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile,6.59,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C,0,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/c89041e8095c7af669c2498d6e668e51cb7a9d61/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook,0.71,,,
-code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python,7.46,,,
-code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C,0,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML,0,,,
-code file,https://github.com/Tanyk2004/home-automation/blob/ffde7736530a7528b93c9aa06c9fc9fbb352dc34/backend-service/core/views.py,14,CSS,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/ultimate-utils-proj-src/uutils/hf_uu/train/full_fine_tuning.py,4,C,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,3,C,2,,,
-code file,https://github.com/pranavgupta2603/seoAnalyzerGPT/blob/5f8687cf9aeab266919e026117df901686d7cd17/pagespeed.py,2,Python,3.04,,,
-code file,https://github.com/jairomelo/paress2/blob/aa6724e216636baa4d4a1912bda9766b0de0d769/paress2/browser_checker.py,10,Python,5,,,
-code file,https://github.com/naoTimesdev/showtimes/blob/ff551e922b174aae6f8b988427bb9911830e29c2/migrations/20230130105150_init.py,0,CSS,6.72,,,
-code file,https://github.com/Veldrovive/transformation-representation/blob/475b9779e46039d6dac8e5932d76b1c750c7105a/models/image_embedder.py,2,Python,3.54,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/c89041e8095c7af669c2498d6e668e51cb7a9d61/grooming_code/1_clean_USA_afdc_factors.py,1,Jupyter Notebook,2.86,,,
-code file,https://github.com/leanprover-community/mathlib4/blob/ae74c2e545c4f18cea002d8c25b12b0ed38d2fcf/scripts/align-import.py,10,ASL,8.33,,,
-code file,https://github.com/Pioreactor/pioreactor/blob/b16c11ecd81b04cae473c8df2ad23b27b68113b1/pioreactor/plugin_management/__init__.py,4,Python,0,,,
-code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,0,CSS,3.79,,,
-code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/radiant/data_view.py,1,CSS,0,,,
-code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/shiny-app/app-radiant.py,2,CSS,0,,,
-code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,0,C,0,,,
-code file,https://github.com/hulefei/notebook/blob/d7e8bc8590ca9a7fc7f879b602d853f005694d61/app.py,1,Batchfile,2.83,,,
-code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python,1.84,,,
-code file,https://github.com/QCrypt/website-2023/blob/227c1a412f6a4402dbc4ce96a9e39d3290346119/static/python-scripts/poster_filter.py,2,HTML,3.5,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python,2.56,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a3dd91c6472130b7d6816066b507b95382661abc/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C,0,,,
-code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile,4.72,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python,5.8,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile,8.25,,,
-code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/1dfbb52a1fe8aba70be02451ddd309a357667fda/Train/config.py,1,Python,0,,,
-code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook,4.25,,,
-code file,https://github.com/trevbook/boggle-vision/blob/b47ca6165bbdf11b8b789258b1276361d6f040c8/utils/board_detection.py,0,Jupyter Notebook,5.18,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile,6.59,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a3dd91c6472130b7d6816066b507b95382661abc/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C,0,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/5c9258295e6c4bcad6db10c902bd205574112dc8/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook,0.33,,,
-code file,https://github.com/asia-pacific-energy-research-centre/transport_model_9th_edition/blob/4024b2cc7fdb903ca0fd764d7d4e0e30d3b7745f/workflow/plotting_functions/create_assumptions_dashboards.py,0,Python,0,,,
-code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/a3dd91c6472130b7d6816066b507b95382661abc/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C,0,,,
-code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/trevbook/boggle-vision/blob/b47ca6165bbdf11b8b789258b1276361d6f040c8/utils/misc.py,4,Jupyter Notebook,6.07,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML,0,,,
-code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook,0,,,
-code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook,0,,,
-code file,https://github.com/wehnsdaefflae/PerpetualAgent/blob/651b1cdf063e8b1d6ebfdd5778f1c2529ba7ae75/new_attempt/main.py,10,Python,,,,
-code file,https://github.com/andrew-healey/combinadics/blob/68f0663cb1575dad1cc4b394795d96bff0c82757/combinadics_fast.py,3,Python,2.76,,,
-code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/98dfb2e99070f225ad6d6a5845aa6ee313ce37cb/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook,4.69,,,
-code file,https://github.com/leanprover-community/mathlib4/blob/844436b8e934723791c651c28ca914a34873857d/scripts/align-import.py,10,ASL,8.33,,,
-code file,https://github.com/codereport/LeetCode/blob/2a3d5ea3438d696690d9a30f1f3f81403128f983/0359_Problem_1.py,2,APL,0,,,
-code file,https://github.com/netket/netket/blob/6ef8b6cf4b36118b34affe503310371a62af06a2/netket/operator/_local_operator/compile_helpers.py,6,Python,7.5,,,
-code file,https://github.com/baseplate-admin/CoreProject/blob/d85b0b8924168643c47ded0554bf17253b83e289/backend/django_core/apps/api/views/anime/episode/__init__.py,2,CSS,0,,,
-code file,https://github.com/baseplate-admin/CoreProject/blob/d85b0b8924168643c47ded0554bf17253b83e289/backend/django_core/apps/api/views/anime/episode/timestamp.py,2,CSS,0,,,
-code file,https://github.com/baseplate-admin/CoreProject/blob/d85b0b8924168643c47ded0554bf17253b83e289/backend/django_core/apps/api/views/anime/episode/comment.py,2,CSS,0,,,
-code file,https://github.com/Pioreactor/pioreactor/blob/a5559ee2857a7b10c4643182ddd4e37033d5b49a/pioreactor/plugin_management/__init__.py,4,Python,0,,,
-code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/radiant/data_view.py,1,CSS,0,,,
-code file,https://github.com/KenesuEXE/pop/blob/6dd4062ab45dc129978a75ec38abd85d4c269cfc/main.py,1,CSS,0,,,
-code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python,1.84,,,
-code file,https://github.com/QCrypt/website-2023/blob/b992f27ff73f4c2bbff57c39537bb4ca31a9d8d1/static/python-scripts/poster_filter.py,2,HTML,3.5,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python,2.56,,,
-code file,https://github.com/jcarter62/sgmaui/blob/fa17cdb4db06d80d8064ed6a4be74aca49d80448/acctview/views.py,1,CSS,6.44,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C,0,,,
-code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile,4.72,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python,5.8,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python,5.45,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile,8.25,,,
-code file,https://github.com/GoatWang/AFRICAN/blob/97c52b3496d563230064c49ea900c73a2c431023/Train/Model.py,0,Python,4.29,,,
-code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook,4.25,,,
-code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly,,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C,,,,
-code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/shiny-app/app-radiant.py,2,CSS,0,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML,4.55,,,
-code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python,7.46,,,
-code file,https://github.com/JasonGross/neural-net-coq-interp/blob/6e00e4e830837ca591ed75e34d3de3aaa4763422/training/Proving_How_A_Transformer_Takes_Max.py,0,Coq,2.6,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/b865a03ceecb2c4536b8f86643134afa0fa8f151/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook,4.31,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C,0,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile,6.59,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C,0,,,
-code file,https://github.com/Lucky19112002/Shell-Share/blob/9fc4c3192d4cdb50f48d8d5d54a00dc8623d56ba/testing/dummy.py,8,Python,6.33,,,
-code file,https://github.com/jseguillon/kubechat-poc/blob/6a5d265e605ad091741058bdfbe3189d6c4d7a2c/commands/transform_commands.py,3,Python,2.36,,,
-code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML,0,,,
-code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/acdbe0589820e7da71f6c28646dfc444f46b89d9/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook,4.76,,,
-code file,https://github.com/trevbook/boggle-vision/blob/0049c63f0c7e4a760904e7a9665f4deb0d024e78/utils/misc.py,4,Jupyter Notebook,6.07,,,
-code file,https://github.com/naoTimesdev/showtimes/blob/79ed15aa647c6fb8ee9a1f694b54d90a5ed7dda0/migrations/20230130105150_init.py,0,CSS,7,,,
-code file,https://github.com/GoatWang/AFRICANPretrain/blob/f417d5c7fc8ee415be963c7fca0ac2a624cd7be9/Train/config.py,1,Python,0,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML,0,,,
-code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/mains_hf/main_causal_lm.py,1,C,0,,,
-code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C,0,,,
-code file,https://github.com/richdrummer33/bg3-voiceover/blob/92d1188f77743617bc86f35dae83ffa415a9c95b/workspace/ai_commentator.py,2,Python,0,,,
-code file,https://github.com/leanprover-community/mathlib4/blob/bae4f344736fec2adab0a0902a7113e3dea4161f/scripts/align-import.py,10,ASL,8.33,,,
-code file,https://github.com/codereport/LeetCode/blob/2a3d5ea3438d696690d9a30f1f3f81403128f983/0359_Problem_1.py,2,APL,0,,,
-code file,https://github.com/netket/netket/blob/f4f2844739302fd7e044b722eae8a93d0bfc59ec/netket/operator/_local_operator/compile_helpers.py,6,Python,7.5,,,
-code file,https://github.com/Pioreactor/pioreactor/blob/a5559ee2857a7b10c4643182ddd4e37033d5b49a/pioreactor/plugin_management/__init__.py,4,Python,0,,,
-code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,0,CSS,3.79,,,
-code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/radiant/data_view.py,1,CSS,0,,,
-code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python,1.84,,,
-code file,https://github.com/QCrypt/website-2023/blob/b992f27ff73f4c2bbff57c39537bb4ca31a9d8d1/static/python-scripts/poster_filter.py,2,HTML,3.5,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python,2.56,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C,0,,,
-code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile,4.72,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python,5.8,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile,8.25,,,
-code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook,4.25,,,
-code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly,,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python,5.45,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C,,,,
-code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/shiny-app/app-radiant.py,2,CSS,0,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML,4.55,,,
-code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python,7.46,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile,6.59,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C,0,,,
-code file,https://github.com/Lucky19112002/Shell-Share/blob/9fc4c3192d4cdb50f48d8d5d54a00dc8623d56ba/testing/dummy.py,8,Python,6.33,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/25c3b593f6484e51d8743150bb5b66bf4cbb2ba2/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook,4.26,,,
-code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C,0,,,
-code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/33b166a2dd2c314ca962b8279d3f5b682be6c47b/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook,4.76,,,
-code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML,0,,,
-code file,https://github.com/trevbook/boggle-vision/blob/0049c63f0c7e4a760904e7a9665f4deb0d024e78/utils/misc.py,4,Jupyter Notebook,6.07,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML,0,,,
-code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook,0,,,
-code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS,0,,,
-code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/a4520ff57d45c2d5f311ebe16a21d5a395061f04/Train/config.py,1,Python,0,,,
-code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook,0,,,
-code file,https://github.com/naoTimesdev/showtimes/blob/79ed15aa647c6fb8ee9a1f694b54d90a5ed7dda0/migrations/20230130105150_init.py,0,CSS,7,,,
-code file,https://github.com/andrew-healey/combinadics/blob/68f0663cb1575dad1cc4b394795d96bff0c82757/combinadics_fast.py,3,Python,2.76,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/mains_hf/main_causal_lm.py,1,C,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,1,C,2,,,
-code file,https://github.com/leanprover-community/mathlib4/blob/68a37cd35e05cc51a0f1e5c9ea30473009f881ab/scripts/align-import.py,10,ASL,8.33,,,
-code file,https://github.com/Pioreactor/pioreactor/blob/b16c11ecd81b04cae473c8df2ad23b27b68113b1/pioreactor/plugin_management/__init__.py,4,Python,0,,,
-code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,0,CSS,3.79,,,
-code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/radiant/data_view.py,1,CSS,0,,,
-code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/shiny-app/app-radiant.py,2,CSS,0,,,
-code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,0,C,0,,,
-code file,https://github.com/hulefei/notebook/blob/d7e8bc8590ca9a7fc7f879b602d853f005694d61/app.py,1,Batchfile,2.83,,,
-code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python,1.84,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,3,C,2,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C,0,,,
-code file,https://github.com/QCrypt/website-2023/blob/1d65539414ad7d1d679788a47abad1bb44f35d06/static/python-scripts/poster_filter.py,2,HTML,3.5,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python,2.56,,,
-code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/2ba492efdd15666cf8dbbb4709e158141506aa75/Train/config.py,1,Python,0,,,
-code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly,,,,
-code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile,4.72,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python,5.8,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile,8.25,,,
-code file,https://github.com/GoatWang/XrayCLR/blob/1b2a045f205190386832d53b307fa061576d89b6/Train/config.py,1,Python,,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C,,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML,4.55,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/b0e9072ed135d9ed75db59fe9729b50daa428fd7/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook,0.71,,,
-code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook,4.25,,,
-code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python,5.45,,,
-code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python,7.46,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C,0,,,
-code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile,6.59,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C,0,,,
-code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML,0,,,
-code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML,0,,,
-code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/1f7732142b0c9c7d4f0a8613c7ef995671620ea3/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook,3,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C,0,,,
-code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/ultimate-utils-proj-src/uutils/hf_uu/train/full_fine_tuning.py,4,C,0,,,
-code file,https://github.com/asia-pacific-energy-research-centre/transport_model_9th_edition/blob/e48b306e59c1e3dc5eb25216bab15b7e708d954f/workflow/plotting_functions/create_assumptions_dashboards.py,0,Python,0,,,
-code file,https://github.com/pranavgupta2603/seoAnalyzerGPT/blob/5f8687cf9aeab266919e026117df901686d7cd17/pagespeed.py,0,Python,3.04,,,
-code file,https://github.com/naoTimesdev/showtimes/blob/9dea0159a0234e18bfb2e605f82e129b8f45177b/migrations/20230130105150_init.py,0,CSS,6.72,,,
-code file,https://github.com/jairomelo/paress2/blob/aa6724e216636baa4d4a1912bda9766b0de0d769/paress2/browser_checker.py,0,Python,5,,,
-code file,https://github.com/Veldrovive/transformation-representation/blob/475b9779e46039d6dac8e5932d76b1c750c7105a/models/image_embedder.py,0,Python,3.54,,,
-code file,https://github.com/H3yfinn/transport_data_system/blob/b0e9072ed135d9ed75db59fe9729b50daa428fd7/grooming_code/1_clean_USA_afdc_factors.py,0,Jupyter Notebook,2.86,,,
+Type,URL,Prompts,RepoLanguage
+code file,https://github.com/leanprover-community/mathlib4/blob/226948a52f8e19ad95ff6025a96784d7e7ed6ed0/scripts/align-import.py,10,ASL
+code file,https://github.com/codereport/LeetCode/blob/2a3d5ea3438d696690d9a30f1f3f81403128f983/0359_Problem_1.py,2,APL
+code file,https://github.com/netket/netket/blob/d0dc9a39c86a4e115546a65054760a4b5de5e8a4/netket/operator/_local_operator/compile_helpers.py,6,Python
+code file,https://github.com/baseplate-admin/CoreProject/blob/3ae71711cfe72edc0faecbf1f4ea9321544d26d0/backend/django_core/apps/api/views/anime/episode/__init__.py,2,CSS
+code file,https://github.com/baseplate-admin/CoreProject/blob/3ae71711cfe72edc0faecbf1f4ea9321544d26d0/backend/django_core/apps/api/views/anime/episode/timestamp.py,2,CSS
+code file,https://github.com/baseplate-admin/CoreProject/blob/3ae71711cfe72edc0faecbf1f4ea9321544d26d0/backend/django_core/apps/api/views/anime/episode/comment.py,2,CSS
+code file,https://github.com/Pioreactor/pioreactor/blob/a5559ee2857a7b10c4643182ddd4e37033d5b49a/pioreactor/plugin_management/__init__.py,4,Python
+code file,https://github.com/ElectricRCAircraftGuy/eRCaGuy_hello_world/blob/aa05660bc15ff68ae00ccd50381edcab81043ad3/python/time_convert_tai_to_unix_lib.py,3,Assembly
+code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/radiant/data_view.py,1,CSS
+code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,4,Python
+code file,https://github.com/QCrypt/website-2023/blob/b0578134ef5c825cc72acd330b11d06574b770a9/static/python-scripts/poster_filter.py,2,HTML
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python
+code file,https://github.com/jcarter62/sgmaui/blob/fa17cdb4db06d80d8064ed6a4be74aca49d80448/acctview/views.py,1,CSS
+code file,https://github.com/brando90/ultimate-utils/blob/0cd886c738a5a2757e3da061ee793c0be2a20ede/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C
+code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile
+code file,https://github.com/GoatWang/AFRICAN/blob/97c52b3496d563230064c49ea900c73a2c431023/Train/Model.py,ERR,Python
+code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook
+code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly
+code file,https://github.com/brando90/ultimate-utils/blob/0cd886c738a5a2757e3da061ee793c0be2a20ede/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C
+code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/shiny-app/app-radiant.py,2,CSS
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML
+code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python
+code file,https://github.com/richdrummer33/bg3-voiceover/blob/abbee702a8cabf7063b39631f43db23ce64454ef/workspace/ai_commentator.py,2,Python
+code file,https://github.com/dtudk/pythonsupport-page/blob/7a2ba3cfd6769979a0054d0b2a223684bbae9d61/tools/scuffed-scraper/main.py,1,Batchfile
+code file,https://github.com/Davi-S/Toolorant/blob/95d9570792d92e026935a855f548d2ab9fc57738/src/flask_application/forms.py,1,Batchfile
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,18,Makefile
+code file,https://github.com/brando90/ultimate-utils/blob/0cd886c738a5a2757e3da061ee793c0be2a20ede/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C
+code file,https://github.com/Lucky19112002/Shell-Share/blob/9fc4c3192d4cdb50f48d8d5d54a00dc8623d56ba/testing/dummy.py,8,Python
+code file,https://github.com/jseguillon/kubechat-poc/blob/6a5d265e605ad091741058bdfbe3189d6c4d7a2c/commands/transform_commands.py,3,Python
+code file,https://github.com/JasonGross/neural-net-coq-interp/blob/1a2594e863185f0a9cfefe3532bb5e3588a35c2f/training/Proving_How_A_Transformer_Takes_Max.py,ERR,Coq
+code file,https://github.com/H3yfinn/transport_data_system/blob/b865a03ceecb2c4536b8f86643134afa0fa8f151/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook
+code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML
+code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS
+code file,https://github.com/brando90/ultimate-utils/blob/0cd886c738a5a2757e3da061ee793c0be2a20ede/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C
+code file,https://github.com/trevbook/boggle-vision/blob/6c8b4ccf2145affef414a338a9cd9a86919dbabc/utils/misc.py,4,Jupyter Notebook
+code file,https://github.com/naoTimesdev/showtimes/blob/79ed15aa647c6fb8ee9a1f694b54d90a5ed7dda0/migrations/20230130105150_init.py,ERR,CSS
+code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/130f22bb9d61497437b586ca84d726704dea61ee/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook
+code file,https://github.com/GoatWang/AFRICANPretrain/blob/f417d5c7fc8ee415be963c7fca0ac2a624cd7be9/Train/config.py,1,Python
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML
+code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook
+code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS
+code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook
+code file,https://github.com/ceumicrodata/bucketlist/blob/d6698c66b11fcc63fd34bde1ae14873f6c27437c/bucketlist/storage.py,11,Makefile
+code file,https://github.com/leanprover-community/mathlib4/blob/69906dca77aa3070d1e23781fc67a0c535cd64e9/scripts/align-import.py,10,ASL
+code file,https://github.com/Pioreactor/pioreactor/blob/b16c11ecd81b04cae473c8df2ad23b27b68113b1/pioreactor/plugin_management/__init__.py,4,Python
+code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,ERR,CSS
+code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/radiant/data_view.py,1,CSS
+code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/shiny-app/app-radiant.py,2,CSS
+code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,ERR,C
+code file,https://github.com/hulefei/notebook/blob/d7e8bc8590ca9a7fc7f879b602d853f005694d61/app.py,1,Batchfile
+code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python
+code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,1,C
+code file,https://github.com/QCrypt/website-2023/blob/ccf1dd28ee40d9efa69948de14fe7e570ae225c7/static/python-scripts/poster_filter.py,2,HTML
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python
+code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C
+code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile
+code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook
+code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python
+code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML
+code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile
+code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C
+code file,https://github.com/H3yfinn/transport_data_system/blob/5c9258295e6c4bcad6db10c902bd205574112dc8/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook
+code file,https://github.com/asia-pacific-energy-research-centre/transport_model_9th_edition/blob/4024b2cc7fdb903ca0fd764d7d4e0e30d3b7745f/workflow/plotting_functions/create_assumptions_dashboards.py,ERR,Python
+code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML
+code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C
+code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/f80b4861ff3558f9ab7103de5cf6c58e7ba35d30/Train/config.py,1,Python
+code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C
+code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/hf_uu/train/full_fine_tuning.py,4,C
+code file,https://github.com/naoTimesdev/showtimes/blob/caccfc9f714b4872b471f83842fa46da56b55cae/migrations/20230130105150_init.py,ERR,CSS
+code file,https://github.com/brando90/ultimate-utils/blob/a0b5e31f55bc3931e8cae61d5d3a62fa79197d37/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,1,C
+code file,https://github.com/pranavgupta2603/seoAnalyzerGPT/blob/5f8687cf9aeab266919e026117df901686d7cd17/pagespeed.py,2,Python
+code file,https://github.com/leanprover-community/mathlib4/blob/891adb329938ca3cd49a1d1208f691a98fb0896f/scripts/align-import.py,10,ASL
+code file,https://github.com/netket/netket/blob/f4f2844739302fd7e044b722eae8a93d0bfc59ec/netket/operator/_local_operator/compile_helpers.py,6,Python
+code file,https://github.com/Pioreactor/pioreactor/blob/b16c11ecd81b04cae473c8df2ad23b27b68113b1/pioreactor/plugin_management/__init__.py,4,Python
+code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,ERR,CSS
+code file,https://github.com/vnijs/pyrsm/blob/fa5272386d571914039548d7ed724b4d5237f04e/pyrsm/radiant/data_view.py,1,CSS
+code file,https://github.com/vnijs/pyrsm/blob/fa5272386d571914039548d7ed724b4d5237f04e/pyrsm/shiny-app/app-radiant.py,2,CSS
+code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,ERR,C
+code file,https://github.com/hulefei/notebook/blob/25433535a308dae41e652742a9768dc32e984d9c/app.py,1,Batchfile
+code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,5,Python
+code file,https://github.com/QCrypt/website-2023/blob/b992f27ff73f4c2bbff57c39537bb4ca31a9d8d1/static/python-scripts/poster_filter.py,2,HTML
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C
+code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python
+code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile
+code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML
+code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python
+code file,https://github.com/H3yfinn/transport_data_system/blob/64990102168a2c6105ebe53ca8996f7c99739a7c/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,18,Makefile
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C
+code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML
+code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS
+code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/61625dace4646a2ede8ea3ca9f44e30c4e96c1f7/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook
+code file,https://github.com/trevbook/boggle-vision/blob/0049c63f0c7e4a760904e7a9665f4deb0d024e78/utils/misc.py,4,Jupyter Notebook
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML
+code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook
+code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS
+code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/a4520ff57d45c2d5f311ebe16a21d5a395061f04/Train/config.py,1,Python
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/mains_hf/main_causal_lm.py,1,C
+code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook
+code file,https://github.com/wehnsdaefflae/PerpetualAgent/blob/2fe1d5dd2a549d4baf4dbbebd8b3c51820a30e8c/new_attempt/main.py,10,Python
+code file,https://github.com/andrew-healey/combinadics/blob/68f0663cb1575dad1cc4b394795d96bff0c82757/combinadics_fast.py,3,Python
+code file,https://github.com/leanprover-community/mathlib4/blob/61fc05bca210b556703c897004b5a03fca41fb7b/scripts/align-import.py,10,ASL
+code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,ERR,CSS
+code file,https://github.com/vnijs/pyrsm/blob/f4bd7fd6c5dad75e33d8219567c5e26487ce6c71/pyrsm/radiant/data_view.py,1,CSS
+code file,https://github.com/vnijs/pyrsm/blob/f4bd7fd6c5dad75e33d8219567c5e26487ce6c71/pyrsm/shiny-app/app-radiant.py,2,CSS
+code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,ERR,C
+code file,https://github.com/hulefei/notebook/blob/d7e8bc8590ca9a7fc7f879b602d853f005694d61/app.py,1,Batchfile
+code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python
+code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile
+code file,https://github.com/QCrypt/website-2023/blob/2879fa260fc9e2f90d9709bae0491f46159a846b/static/python-scripts/poster_filter.py,2,HTML
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python
+code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly
+code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/2ba492efdd15666cf8dbbb4709e158141506aa75/Train/config.py,1,Python
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML
+code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python
+code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C
+code file,https://github.com/asia-pacific-energy-research-centre/transport_model_9th_edition/blob/8a8eed6289710125a2b40c6039579a655fdec37c/workflow/plotting_functions/create_assumptions_dashboards.py,10,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile
+code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C
+code file,https://github.com/H3yfinn/transport_data_system/blob/c89041e8095c7af669c2498d6e668e51cb7a9d61/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook
+code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python
+code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML
+code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML
+code file,https://github.com/Tanyk2004/home-automation/blob/ffde7736530a7528b93c9aa06c9fc9fbb352dc34/backend-service/core/views.py,14,CSS
+code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C
+code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/ultimate-utils-proj-src/uutils/hf_uu/train/full_fine_tuning.py,4,C
+code file,https://github.com/brando90/ultimate-utils/blob/bb13924c7b0ba709125fb0262d4270eff9e6feba/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,3,C
+code file,https://github.com/pranavgupta2603/seoAnalyzerGPT/blob/5f8687cf9aeab266919e026117df901686d7cd17/pagespeed.py,2,Python
+code file,https://github.com/jairomelo/paress2/blob/aa6724e216636baa4d4a1912bda9766b0de0d769/paress2/browser_checker.py,10,Python
+code file,https://github.com/naoTimesdev/showtimes/blob/ff551e922b174aae6f8b988427bb9911830e29c2/migrations/20230130105150_init.py,ERR,CSS
+code file,https://github.com/Veldrovive/transformation-representation/blob/475b9779e46039d6dac8e5932d76b1c750c7105a/models/image_embedder.py,2,Python
+code file,https://github.com/H3yfinn/transport_data_system/blob/c89041e8095c7af669c2498d6e668e51cb7a9d61/grooming_code/1_clean_USA_afdc_factors.py,1,Jupyter Notebook
+code file,https://github.com/leanprover-community/mathlib4/blob/ae74c2e545c4f18cea002d8c25b12b0ed38d2fcf/scripts/align-import.py,10,ASL
+code file,https://github.com/Pioreactor/pioreactor/blob/b16c11ecd81b04cae473c8df2ad23b27b68113b1/pioreactor/plugin_management/__init__.py,4,Python
+code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,ERR,CSS
+code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/radiant/data_view.py,1,CSS
+code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/shiny-app/app-radiant.py,2,CSS
+code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,ERR,C
+code file,https://github.com/hulefei/notebook/blob/d7e8bc8590ca9a7fc7f879b602d853f005694d61/app.py,1,Batchfile
+code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python
+code file,https://github.com/QCrypt/website-2023/blob/227c1a412f6a4402dbc4ce96a9e39d3290346119/static/python-scripts/poster_filter.py,2,HTML
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python
+code file,https://github.com/brando90/ultimate-utils/blob/a3dd91c6472130b7d6816066b507b95382661abc/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C
+code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile
+code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/1dfbb52a1fe8aba70be02451ddd309a357667fda/Train/config.py,1,Python
+code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook
+code file,https://github.com/trevbook/boggle-vision/blob/b47ca6165bbdf11b8b789258b1276361d6f040c8/utils/board_detection.py,ERR,Jupyter Notebook
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile
+code file,https://github.com/brando90/ultimate-utils/blob/a3dd91c6472130b7d6816066b507b95382661abc/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C
+code file,https://github.com/H3yfinn/transport_data_system/blob/5c9258295e6c4bcad6db10c902bd205574112dc8/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook
+code file,https://github.com/asia-pacific-energy-research-centre/transport_model_9th_edition/blob/4024b2cc7fdb903ca0fd764d7d4e0e30d3b7745f/workflow/plotting_functions/create_assumptions_dashboards.py,ERR,Python
+code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML
+code file,https://github.com/brando90/ultimate-utils/blob/a3dd91c6472130b7d6816066b507b95382661abc/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C
+code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS
+code file,https://github.com/trevbook/boggle-vision/blob/b47ca6165bbdf11b8b789258b1276361d6f040c8/utils/misc.py,4,Jupyter Notebook
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML
+code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook
+code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS
+code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook
+code file,https://github.com/wehnsdaefflae/PerpetualAgent/blob/651b1cdf063e8b1d6ebfdd5778f1c2529ba7ae75/new_attempt/main.py,10,Python
+code file,https://github.com/andrew-healey/combinadics/blob/68f0663cb1575dad1cc4b394795d96bff0c82757/combinadics_fast.py,3,Python
+code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/98dfb2e99070f225ad6d6a5845aa6ee313ce37cb/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook
+code file,https://github.com/leanprover-community/mathlib4/blob/844436b8e934723791c651c28ca914a34873857d/scripts/align-import.py,10,ASL
+code file,https://github.com/codereport/LeetCode/blob/2a3d5ea3438d696690d9a30f1f3f81403128f983/0359_Problem_1.py,2,APL
+code file,https://github.com/netket/netket/blob/6ef8b6cf4b36118b34affe503310371a62af06a2/netket/operator/_local_operator/compile_helpers.py,6,Python
+code file,https://github.com/baseplate-admin/CoreProject/blob/d85b0b8924168643c47ded0554bf17253b83e289/backend/django_core/apps/api/views/anime/episode/__init__.py,2,CSS
+code file,https://github.com/baseplate-admin/CoreProject/blob/d85b0b8924168643c47ded0554bf17253b83e289/backend/django_core/apps/api/views/anime/episode/timestamp.py,2,CSS
+code file,https://github.com/baseplate-admin/CoreProject/blob/d85b0b8924168643c47ded0554bf17253b83e289/backend/django_core/apps/api/views/anime/episode/comment.py,2,CSS
+code file,https://github.com/Pioreactor/pioreactor/blob/a5559ee2857a7b10c4643182ddd4e37033d5b49a/pioreactor/plugin_management/__init__.py,4,Python
+code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/radiant/data_view.py,1,CSS
+code file,https://github.com/KenesuEXE/pop/blob/6dd4062ab45dc129978a75ec38abd85d4c269cfc/main.py,1,CSS
+code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python
+code file,https://github.com/QCrypt/website-2023/blob/b992f27ff73f4c2bbff57c39537bb4ca31a9d8d1/static/python-scripts/poster_filter.py,2,HTML
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python
+code file,https://github.com/jcarter62/sgmaui/blob/fa17cdb4db06d80d8064ed6a4be74aca49d80448/acctview/views.py,1,CSS
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C
+code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile
+code file,https://github.com/GoatWang/AFRICAN/blob/97c52b3496d563230064c49ea900c73a2c431023/Train/Model.py,ERR,Python
+code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook
+code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C
+code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/shiny-app/app-radiant.py,2,CSS
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML
+code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python
+code file,https://github.com/JasonGross/neural-net-coq-interp/blob/6e00e4e830837ca591ed75e34d3de3aaa4763422/training/Proving_How_A_Transformer_Takes_Max.py,ERR,Coq
+code file,https://github.com/H3yfinn/transport_data_system/blob/b865a03ceecb2c4536b8f86643134afa0fa8f151/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C
+code file,https://github.com/Lucky19112002/Shell-Share/blob/9fc4c3192d4cdb50f48d8d5d54a00dc8623d56ba/testing/dummy.py,8,Python
+code file,https://github.com/jseguillon/kubechat-poc/blob/6a5d265e605ad091741058bdfbe3189d6c4d7a2c/commands/transform_commands.py,3,Python
+code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML
+code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS
+code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS
+code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/acdbe0589820e7da71f6c28646dfc444f46b89d9/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook
+code file,https://github.com/trevbook/boggle-vision/blob/0049c63f0c7e4a760904e7a9665f4deb0d024e78/utils/misc.py,4,Jupyter Notebook
+code file,https://github.com/naoTimesdev/showtimes/blob/79ed15aa647c6fb8ee9a1f694b54d90a5ed7dda0/migrations/20230130105150_init.py,ERR,CSS
+code file,https://github.com/GoatWang/AFRICANPretrain/blob/f417d5c7fc8ee415be963c7fca0ac2a624cd7be9/Train/config.py,1,Python
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML
+code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/mains_hf/main_causal_lm.py,1,C
+code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C
+code file,https://github.com/richdrummer33/bg3-voiceover/blob/92d1188f77743617bc86f35dae83ffa415a9c95b/workspace/ai_commentator.py,2,Python
+code file,https://github.com/leanprover-community/mathlib4/blob/bae4f344736fec2adab0a0902a7113e3dea4161f/scripts/align-import.py,10,ASL
+code file,https://github.com/codereport/LeetCode/blob/2a3d5ea3438d696690d9a30f1f3f81403128f983/0359_Problem_1.py,2,APL
+code file,https://github.com/netket/netket/blob/f4f2844739302fd7e044b722eae8a93d0bfc59ec/netket/operator/_local_operator/compile_helpers.py,6,Python
+code file,https://github.com/Pioreactor/pioreactor/blob/a5559ee2857a7b10c4643182ddd4e37033d5b49a/pioreactor/plugin_management/__init__.py,4,Python
+code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,ERR,CSS
+code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/radiant/data_view.py,1,CSS
+code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python
+code file,https://github.com/QCrypt/website-2023/blob/b992f27ff73f4c2bbff57c39537bb4ca31a9d8d1/static/python-scripts/poster_filter.py,2,HTML
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C
+code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile
+code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook
+code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C
+code file,https://github.com/vnijs/pyrsm/blob/15f73e9802aa7f4feba8799f14bb3fe25d820772/pyrsm/shiny-app/app-radiant.py,2,CSS
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML
+code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C
+code file,https://github.com/Lucky19112002/Shell-Share/blob/9fc4c3192d4cdb50f48d8d5d54a00dc8623d56ba/testing/dummy.py,8,Python
+code file,https://github.com/H3yfinn/transport_data_system/blob/25c3b593f6484e51d8743150bb5b66bf4cbb2ba2/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook
+code file,https://github.com/SCCWRP/microplastics-checker/blob/6cd997f20cf4e8afbf3b33363caa6051457d2cd9/proj/preprocess.py,3,CSS
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C
+code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/33b166a2dd2c314ca962b8279d3f5b682be6c47b/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook
+code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML
+code file,https://github.com/trevbook/boggle-vision/blob/0049c63f0c7e4a760904e7a9665f4deb0d024e78/utils/misc.py,4,Jupyter Notebook
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML
+code file,https://github.com/ShlokDesai33/CS539-Project/blob/750b8d43894ba40bf0a1d9d69b357e18a26a4fab/CarDataAugmentation.py,3,Jupyter Notebook
+code file,https://github.com/SCCWRP/bight23checker/blob/b4abd7fd9b254f80065f430501a484ad98b871bf/proj/preprocess.py,3,CSS
+code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/a4520ff57d45c2d5f311ebe16a21d5a395061f04/Train/config.py,1,Python
+code file,https://github.com/stuartwaller/Better_Spotify_DJ/blob/b11bb375bd4a693565d23bdc1db8b101db7cb219/recs_dev.py,14,Jupyter Notebook
+code file,https://github.com/naoTimesdev/showtimes/blob/79ed15aa647c6fb8ee9a1f694b54d90a5ed7dda0/migrations/20230130105150_init.py,ERR,CSS
+code file,https://github.com/andrew-healey/combinadics/blob/68f0663cb1575dad1cc4b394795d96bff0c82757/combinadics_fast.py,3,Python
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/hf_uu/mains_hf/main_causal_lm.py,1,C
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C
+code file,https://github.com/brando90/ultimate-utils/blob/15091cea03990be14f5343d95e305183b62fa69c/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,1,C
+code file,https://github.com/leanprover-community/mathlib4/blob/68a37cd35e05cc51a0f1e5c9ea30473009f881ab/scripts/align-import.py,10,ASL
+code file,https://github.com/Pioreactor/pioreactor/blob/b16c11ecd81b04cae473c8df2ad23b27b68113b1/pioreactor/plugin_management/__init__.py,4,Python
+code file,https://github.com/haseeb-heaven/CodeRunner-Plugin/blob/74270fd004842c29439bcae6e4a531f8897250bc/script.py,ERR,CSS
+code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/radiant/data_view.py,1,CSS
+code file,https://github.com/vnijs/pyrsm/blob/8debef0fde117ef2dff6304161f060fc3daf9d6d/pyrsm/shiny-app/app-radiant.py,2,CSS
+code file,https://github.com/nymath/torchqtm/blob/7ca23ee8e975fedf33362c3276f3bd1cf916fe5b/torchqtm/alphas/alpha101.py,ERR,C
+code file,https://github.com/hulefei/notebook/blob/d7e8bc8590ca9a7fc7f879b602d853f005694d61/app.py,1,Batchfile
+code file,https://github.com/e-p-armstrong/bag-of-words-newsgroups/blob/10307e02755f2d73a207053051dc7f998c63b897/train.py,2,Python
+code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/ultimate-utils-proj-src/uutils/wandb_uu/sweeps_common.py,3,C
+code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/ultimate-utils-proj-src/uutils/hf_uu/model_tokenizer/init_new_token_in_model.py,2,C
+code file,https://github.com/QCrypt/website-2023/blob/1d65539414ad7d1d679788a47abad1bb44f35d06/static/python-scripts/poster_filter.py,2,HTML
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/chatbox.py,29,Python
+code file,https://github.com/GoatWang/VideoFrameIdentityNetwork/blob/2ba492efdd15666cf8dbbb4709e158141506aa75/Train/config.py,1,Python
+code file,https://github.com/hutanmihai/FMI/blob/81fcf31b26851aa71211bb341a94177c83a1c247/Anul%20II/Semestrul%20II/Retele/proiect-retele-2023-kubernerds/src/traceroute.py,19,Assembly
+code file,https://github.com/tai-calg/QU-making-processor-tai/blob/e3f411d3cb9a03be3e237739f2403bfaf0e2a557/change_param.py,9,Makefile
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/robot/server.py,14,Python
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/weight/sigmodal.py,18,Makefile
+code file,https://github.com/GoatWang/XrayCLR/blob/1b2a045f205190386832d53b307fa061576d89b6/Train/config.py,1,Python
+code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/hf_argparse_and_wandb_sweeps.py,4,C
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/download.py,7,HTML
+code file,https://github.com/H3yfinn/transport_data_system/blob/b0e9072ed135d9ed75db59fe9729b50daa428fd7/grooming_code/1_import_9th_modelled_data.py,6,Jupyter Notebook
+code file,https://github.com/simbafs/ncku/blob/ad61f158684a21e3fb9563920a0d5eb3fcc678f2/gpt-python/project/main.py,26,Jupyter Notebook
+code file,https://github.com/hav4ik/chappity/blob/9d6d0bf90ce30089a9d421fb71fdf5fbf050d168/controller/client.py,14,Python
+code file,https://github.com/Max-We/Mini-Draw/blob/a4bf5e5a70eb8dcf93f66d8fda863d41ecb3ff25/src/Renderer.py,3,Python
+code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/tutorials_for_myself/my_hf_hugging_face_pg/hf_argparse_and_wandb_sweeps/basic_example_hf_parser.py,1,C
+code file,https://github.com/AGnias47/march-madness/blob/d185ece243619640b36fd1fb480b71efb4664550/visualize_weight_functions.py,3,Makefile
+code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/ultimate-utils-proj-src/uutils/hf_uu/hf_argparse/falcon_uu_training_args.py,8,C
+code file,https://github.com/KevinQuantJIN/udacity-web-full-stack-project/blob/6d53f3c3f2f2704b67f06a17fc1102ff0779a666/course1/flask_hello_app.py,2,HTML
+code file,https://github.com/donggook-me/prompting_summarize/blob/cb37fb9c5d68ae89705d21d7e52bce147acc73c4/main.py,19,HTML
+code file,https://github.com/mingxiaomichael/Reinforcement-Learning/blob/1f7732142b0c9c7d4f0a8613c7ef995671620ea3/Algorithm/DQN/02_DQN/DQN.py,3,Jupyter Notebook
+code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/tutorials_for_myself/my_wandb_uu/my_wandb_sweeps_uu/sweep_in_python_yaml_config/improved_train_sweep_minimal_demo.py,1,C
+code file,https://github.com/brando90/ultimate-utils/blob/bc5b75f2b10c0ca8aa0607c40d68ff6c7d367cfc/ultimate-utils-proj-src/uutils/hf_uu/train/full_fine_tuning.py,4,C
+code file,https://github.com/asia-pacific-energy-research-centre/transport_model_9th_edition/blob/e48b306e59c1e3dc5eb25216bab15b7e708d954f/workflow/plotting_functions/create_assumptions_dashboards.py,ERR,Python
+code file,https://github.com/pranavgupta2603/seoAnalyzerGPT/blob/5f8687cf9aeab266919e026117df901686d7cd17/pagespeed.py,0,Python
+code file,https://github.com/naoTimesdev/showtimes/blob/9dea0159a0234e18bfb2e605f82e129b8f45177b/migrations/20230130105150_init.py,ERR,CSS
+code file,https://github.com/jairomelo/paress2/blob/aa6724e216636baa4d4a1912bda9766b0de0d769/paress2/browser_checker.py,0,Python
+code file,https://github.com/Veldrovive/transformation-representation/blob/475b9779e46039d6dac8e5932d76b1c750c7105a/models/image_embedder.py,0,Python
+code file,https://github.com/H3yfinn/transport_data_system/blob/b0e9072ed135d9ed75db59fe9729b50daa428fd7/grooming_code/1_clean_USA_afdc_factors.py,0,Jupyter Notebook

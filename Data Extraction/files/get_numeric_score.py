@@ -20,7 +20,7 @@ with open("scores.csv", "r", newline="", encoding="utf-8") as csvfile:
         if '.' in score:
             scores.append(score)
         else:
-            scores.append("")
+            scores.append("ERR")
 
 with open("just_scores.csv", "w", newline="", encoding="utf-8") as csvfile:
     csv_writer = csv.writer(csvfile)

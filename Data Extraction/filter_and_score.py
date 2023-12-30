@@ -2,12 +2,22 @@
 # scores output in scores.csv - if there was a problem scoring the file the line just gets written as ""
 # Fair warning: this will take few minutes to finish running
 import subprocess
+import os
 
 try:
+    print("Running: python filter_csv.py")
     subprocess.run("python filter_csv.py")
-    subprocess.run("cd files")
+except:
+    print("Error: combined_allTopics.csv Does Not Exist - Attempting Extraction from Existing Dataset")
+
+try:
+    print("Changing Directory to files")
+    os.chdir("files")
+    print("Running: python extract.py")
     subprocess.run("python extract.py")
+    print("Running: python auto_score.py")
     subprocess.run("python auto_score.py")
+    print("Running: python get_numeric_score.py")
     subprocess.run("python get_numeric_score.py")
 except Exception as e:
     print(f"Error: {e}")
