@@ -1,6 +1,8 @@
 import csv
 import json
 
+# This script is based on extract_json_to_csv.py in the archive
+
 file = open("combined_allTopics.csv")
 csvreader = csv.reader(file)
 
@@ -13,11 +15,13 @@ number_of_prompts = []
 
 print("Reading...")
 for row in csvreader:
+    # Lines in combined_allTopics.csv aren't all in the same format, so we have to check if a given line is in the right format
     if row[0] in acceptable_first_column and ".py" in row[1]:
         sourceTypes.append(row[0])
         urls.append(row[1])
         languages.append(row[4])
 
+        # TODO: Extract the actual json object instead of just looking for this string
         prompts_index = row[9].find("'NumberOfPrompts': ")
         if prompts_index != -1:
             prompts_data = row[9][prompts_index:]

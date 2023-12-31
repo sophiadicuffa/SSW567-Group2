@@ -12,3 +12,14 @@ The initial dataset was too large to upload to GitHub, but the filtered dataset 
 cd "Data Extraction"
 python filter_and_score.py
 ```
+
+## Testing
+
+To test the Python scripts:
+
+```bash
+cd "Data Extraction"
+cd files
+cd tests
+python run_tests.py
+```

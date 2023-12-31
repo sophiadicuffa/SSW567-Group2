@@ -1,6 +1,6 @@
 # run this file to filter from combined_allTopics.csv, extract the files from github, and score them in one go
 # scores output in scores.csv - if there was a problem scoring the file the line just gets written as ""
-# Fair warning: this will take few minutes to finish running
+# Fair warning: this might take couple minutes to finish running
 import subprocess
 import os
 
@@ -15,8 +15,9 @@ try:
     os.chdir("files")
     print("Running: python extract.py")
     subprocess.run("python extract.py")
-    print("Running: python auto_score.py")
-    subprocess.run("python auto_score.py")
+    # TODO: Don't hardcode the language, file prefix, and number of files
+    print("Running: python auto_score.py python sample 305")
+    subprocess.run("python auto_score.py python sample 305")
     print("Running: python get_numeric_score.py")
     subprocess.run("python get_numeric_score.py")
 except Exception as e:
