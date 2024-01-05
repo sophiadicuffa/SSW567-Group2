@@ -1,6 +1,6 @@
 # run this file to filter from combined_allTopics.csv, extract the files from github, and score them in one go
-# scores output in scores.csv - if there was a problem scoring the file the line just gets written as ""
-# Fair warning: this might take couple minutes to finish running
+# scores output in scores.csv - if there was a problem scoring the file the line just gets written as ERR
+# Fair warning: This could take a bit to run
 import subprocess
 import os
 

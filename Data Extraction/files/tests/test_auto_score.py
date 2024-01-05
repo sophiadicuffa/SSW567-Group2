@@ -8,6 +8,21 @@ import auto_score as asc
 
 class TestAutoScore(unittest.TestCase):
 
+    def test_install_python_packages(self):
+        """Test automatic installation of Python packages"""
+        # TODO: Write Test
+        pass
+
+    def test_remove_python_packages(self):
+        """Test automatic removal of Python packages"""
+        # TODO: Write test
+        pass
+
+    def test_install_and_remove(self):
+        """Test installation and removal of Python packages"""
+        # TODO: Write Test
+        pass
+
     def test_score_python(self):
         """Test automatic scoring of Python code"""
         # TODO: Write a better test
@@ -46,7 +61,6 @@ class TestAutoScore(unittest.TestCase):
     def test_score_c(self):
         # TODO: Write Test
         pass
-
 
 if __name__ == '__main__':
     unittest.main()
